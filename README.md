@@ -1,5 +1,8 @@
 # lua-exists
 
+[![test](https://github.com/mah0x211/lua-exists/actions/workflows/test.yml/badge.svg)](https://github.com/mah0x211/lua-exists/actions/workflows/test.yml)
+[![codecov](https://codecov.io/gh/mah0x211/lua-exists/branch/master/graph/badge.svg)](https://codecov.io/gh/mah0x211/lua-exists)
+
 check whether the specified path exists or not.
 
 
